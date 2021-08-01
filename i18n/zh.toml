@@ -1,0 +1,166 @@
+# Header & Footer
+
+[ariaMainMenu]
+other = "主菜单"
+
+[changeAccent]
+other = "更换颜色"
+
+[changeMode]
+other = "更换 白天/夜间 模式"
+
+[noscript]
+other = "无法执行 JavaScript，一些功能被禁止"
+
+
+# Pages
+
+[anchorFor]
+other = "作者"
+
+[tableOfContents]
+other = "内容"
+
+[publishedOn]
+other = "发布于"
+
+[lastUpdatedOn]
+other = "最后一次更新于"
+
+
+# Footnotes
+
+[references]
+other = "References"
+
+[seeFootnotes]
+other = "See footnotes."
+
+[return]
+other = "返回"
+
+[returnToText]
+other = "Return to text."
+
+
+# Contact form
+
+[name]
+other = "你的名称"
+
+[subject]
+other = "主题"
+
+[message]
+other = "内容"
+
+[submit]
+other = "提交"
+
+
+# List (layout)
+
+[tag]
+other = "标签"
+
+[tags]
+other = "标签"
+
+[category]
+other = "Category"
+
+[categories]
+other = "Categories"
+
+[ariaPagination]
+other = "Pagination navigation."
+
+[ariaGoToPage]
+other = "Go to page {{ .PageNumber }}."
+
+[ariaGoToFirst]
+other = "Go to first page."
+
+[ariaGoToNext]
+other = "Go to next page."
+
+[ariaGoToPrev]
+other = "Go to previous page."
+
+[ariaGoToLast]
+other = "Go to last page."
+
+
+# List (meta tags)
+
+[page]
+other = "page"
+
+[of]
+other = "of"
+
+[posts]
+other = "文章"
+
+[postsUnderTag]
+other = "Posts under the \"{{ .Title }}\" tag."
+
+[postsUnderCategory]
+other = "Posts under the \"{{ .Title }}\" category."
+
+[pageContaining]
+other = "Page containing"
+
+
+# Search form
+
+[searchLabel]
+other = "查找"
+
+[searchAriaButton]
+other = "Run search."
+
+[searchInput]
+other = "Search field. Accepts from {{ .minLength }} to {{ .maxLength }} characters."
+
+
+# Search results page
+
+[searchNoPageFound]
+other = "No pages found."
+
+[searchResultsFor]
+other = "Results for"
+
+[searchOnePageFound]
+other = "One page found"
+
+[searchPagesFound]
+other = "pages found"
+
+[searchAwaitingSearch]
+other = "Awaiting search."
+
+[searchTooMany]
+other = "Too many pages found. Please try to repeat the search using another term."
+
+
+# Translations
+
+[alsoAvailable]
+other = "Also available in"
+
+[and]
+other = " and "
+
+
+# Misc
+
+[missingCodec]
+other = "Your browser doesn't support HTML5 audio/video."
+
+[boxContainingCode]
+other = "Box containing code sample."
+
+[boxContainingExpression]
+other = "Box containing expression."
