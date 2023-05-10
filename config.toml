@@ -6,7 +6,7 @@ title = "OHHINK"
 theme = "color"
 
 # Used only in the RSS file
-copyright = "Copyright © 2021, OHHINK; All rights reserved."
+copyright = "Copyright © 2023, OHHINK; All rights reserved."
 
 enableEmoji = true
 enableInlineShortcodes = true
