@@ -1,4 +1,4 @@
-baseURL = "https://ouhaohan8023.github.io"
+baseURL = "https://Shoja6.github.io"
 languageCode = "zh"
 defaultContentLanguage = "zh"
 hasCJKLanguage = true
@@ -180,7 +180,7 @@ paginate = 3
   [params.social.centralized]
 #    facebook      = [ "<username>", "Zuckerburg" ]
 #    flickr        = [ "<username>" ]
-    github        = [ "ouhaohan8023" ]
+    github        = [ "Shoja6" ]
 #    gitlab        = [ "<username>" ]
 #    instagram     = [ "<username>" ]
 #    keybase       = [ "<username>" ]
