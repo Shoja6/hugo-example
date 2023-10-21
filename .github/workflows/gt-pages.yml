@@ -28,7 +28,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3	# 一个自动发布github pages的action
         with:
-          external_repository: Shoja6/Shoja6.github.io	# 发布到哪个repo0
+          external_repository: Shoja6.github.io	# 发布到哪个repo0
           personal_token: ${{ secrets.ACTION_ACCESS_TOKEN }}
           publish_dir: ./public
           publish_branch: master
